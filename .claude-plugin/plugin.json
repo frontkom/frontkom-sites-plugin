@@ -1,0 +1,19 @@
+{
+  "name": "frontkom-sites",
+  "displayName": "Frontkom Sites",
+  "version": "1.0.1",
+  "description": "Create, edit, preview, publish, and restore pages on your Frontkom Sites websites.",
+  "author": {
+    "name": "Frontkom",
+    "url": "https://frontkom.com"
+  },
+  "homepage": "https://sites.frontkom.io/about",
+  "repository": "https://github.com/frontkom/frontkom-sites-plugin",
+  "license": "MIT",
+  "keywords": ["website", "pages", "editing", "publishing"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://sites.frontkom.io/about",
+  "supportUrl": "https://sites.frontkom.io/about/support",
+  "privacyPolicyUrl": "https://sites.frontkom.io/about/privacy",
+  "termsOfServiceUrl": "https://sites.frontkom.io/about/terms"
+}
