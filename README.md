@@ -28,3 +28,9 @@ account with access to a site.
 Find sites and pages, read page content, create a page, describe an edit, open an
 authenticated preview, publish, and restore an earlier version as a new draft.
 Edits keep version history and never publish on their own.
+
+## Packaging
+
+`node package.mjs` builds the ChatGPT upload zip in `out/` from an explicit
+allowlist (manifests and icon only). [`SUBMISSION.md`](SUBMISSION.md) documents
+the OpenAI submission and review workflow.
