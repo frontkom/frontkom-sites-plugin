@@ -29,8 +29,8 @@ Find sites and pages, read page content, create a page, describe an edit, open a
 authenticated preview, publish, and restore an earlier version as a new draft.
 Edits keep version history and never publish on their own.
 
-## Packaging
+## Packaging and submission
 
-`node package.mjs` builds the ChatGPT upload zip in `out/` from an explicit
-allowlist (manifests and icon only). [`SUBMISSION.md`](SUBMISSION.md) documents
-the OpenAI submission and review workflow.
+`scripts/package-plugin.mjs` and `docs/plugin/submission.md` in the private
+app repository build the ChatGPT upload and document the review workflow.
+Point the script at a checkout of this repository.
